@@ -1,6 +1,6 @@
 ### 🐺 Welcome to my Github Profile 😀
 
-- 🏢 Work: full stack web developer for ecommerce platforms in Germany.
+- 🏢 Work: Full stack web developer for ecommerce platforms in Germany.
 - 🔨 Techstack: Shopware 6, Typo3, JavaScript...
 - 🌱 Learning: React JS + FrontendMasters Professional Path (90%)
 - 🔎 I’m currently looking for frontend job opportunities (remote/office).
