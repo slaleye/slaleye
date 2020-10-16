@@ -1,16 +1,17 @@
-### Hi there 👋
+### 🐺 Welcome to My Github Page 😀
 
-<!--
-**slaleye/slaleye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏢 Work: full stack web developer for ecommerce platforms in Germany.
+- 🔨 Techstack: Shopware 6, Typo3, JavaScript...
+- 🌱 Learning: React JS + FrontendMasters Professional Path (90%)
+- 🔎 I’m currently looking for frontend job opportunities (remote/office).
+- 🌍 Languages: Bambara, French, English, German.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**Linkedin**](https://www.linkedin.com/in/slaleye/) [<img alt="Salomon Laleye | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]  |  [**Codepen**](https://codepen.io/slaleye/) [<img alt="Salomon Laleye | Codepen" width="22px" src="https://img.icons8.com/color/22/000000/codepen.png" />][codepen]
+
+
+![Salomon's github stats](https://github-readme-stats.vercel.app/api?username=slaleye&show_icons=true&theme=radical)
+
+
+[linkedin]: https://www.linkedin.com/in/slaleye/
+[codepen]: https://codepen.io/slaleye/
