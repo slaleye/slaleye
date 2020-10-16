@@ -1,4 +1,4 @@
-### 🐺 Welcome to my Github Page 😀
+### 🐺 Welcome to my Github Profile 😀
 
 - 🏢 Work: full stack web developer for ecommerce platforms in Germany.
 - 🔨 Techstack: Shopware 6, Typo3, JavaScript...
