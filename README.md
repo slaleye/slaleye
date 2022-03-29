@@ -1,10 +1,8 @@
 ### 🐺 Welcome to my Github Profile 😀
 
-- 🏢 Work: Software developer, love to do Frontend Stuff.
-- 🔨 Techstack: Shopware 6, Typo3, JavaScript...
-- 🌱 Learning: React JS + FrontendMasters Professional Path (90%)
-- 🔎 I’m currently looking for frontend job opportunities (remote/office).
-- 🌍 Languages: Bambara, French, English, German.
+- 🏢 Work: (Fully Remote) Software Engineer.
+- 🔨 Techstack: JavaScript, React, Svelte..
+- 🌍 Languages: Bambara, French, English. Learning German, Hungarian.
 
 
 [**Linkedin**](https://www.linkedin.com/in/slaleye/) [<img alt="Salomon Laleye | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]  |  [**Codepen**](https://codepen.io/slaleye/) [<img alt="Salomon Laleye | Codepen" width="22px" src="https://img.icons8.com/color/22/000000/codepen.png" />][codepen]
